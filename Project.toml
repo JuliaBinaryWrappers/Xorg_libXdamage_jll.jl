@@ -1,6 +1,6 @@
 name = "Xorg_libXdamage_jll"
 uuid = "0aeada51-83db-5f97-b67e-184615cfc6f6"
-version = "1.1.5+2"
+version = "1.1.5+3"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
