@@ -1,128 +1,128 @@
 [[Xorg_libXdamage]]
 arch = "aarch64"
-git-tree-sha1 = "5544cf74830bb6987fa176a5f185a0d1dc24971e"
+git-tree-sha1 = "3ab0a3584e29ec4ad9c9cc92e465cf775a8ae7b1"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "3fb6353a181b846224e2f02c6356ddc886285e504c1683d93f93334078d81a46"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.aarch64-linux-gnu.tar.gz"
+    sha256 = "2c3a639bd6600a7dcde60ccc96f87d569378241de0e7497cc2dbcd2de25583b7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.aarch64-linux-gnu.tar.gz"
 [[Xorg_libXdamage]]
 arch = "aarch64"
-git-tree-sha1 = "e9fcd00a50018f83c3daa5916771e64ddf25158c"
+git-tree-sha1 = "fce48b9eda5d1b1a9d7a5c71ec26b09686b5892d"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "91c359c8320fc9603e9d4f76b59f3b67e6e767958e2f495ccb7e5764250649be"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.aarch64-linux-musl.tar.gz"
+    sha256 = "53c408a11ce5de13b9400d71ff57e30a3fe708bd275e389c67999fd47076931f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.aarch64-linux-musl.tar.gz"
 [[Xorg_libXdamage]]
 arch = "aarch64"
-git-tree-sha1 = "108586243a2e33557f65358441f20bbcd54c016d"
+git-tree-sha1 = "24adc070021904eb77cc22a6e23eca1e5cc38cee"
 os = "freebsd"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "2f44542d5e3577817f65644a253b78f064af3fc58dc3a0085828467cb31b58a5"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "541338296587fbedabdaf5346ff3983b81f9066a4b46bad9d7b11c39864512bc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.aarch64-unknown-freebsd.tar.gz"
 [[Xorg_libXdamage]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fd92bc5c4e57a7e5837d175e4f59f290fa06e50f"
+git-tree-sha1 = "4bf10a6495f31e183f5e8eedc44f383349f48969"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "eff0ce046cc74dcb7d915fc6886b44f9b96440c67e8f7a38598eda0b230ce64e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "1540cae4962718934031aabd3784a3f494ed0e2fe6348ba63fe8174b83405613"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_libXdamage]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ae26043bb73d72d217968ec7cf4c6a236826ec90"
+git-tree-sha1 = "bb39ccead7018460d512528219efce772ac8c27b"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "0a0fe811b44c10ca173aa15c49aba1a96aca4bcc78197f56333e54624f464c36"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "635783af92718f78b3b54863e2d3a93cf4c3e5112669621885d5f1670c0fb220"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_libXdamage]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b0174cd46a7ad2c6007af5dd34454359a18c58f7"
+git-tree-sha1 = "af754fcab26857b5dcbcf5601ea562707b0218a4"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "689ebb7ba9c9cc13629bf5e2e4925801dd559184039b986ccde3d14a0445c504"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "847b45c197e01af0c8618721499ad579deced9b9906198dc06295919675f7e43"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libXdamage]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1d228cf1e3efc73da80b873f0bf4364fd99ef01a"
+git-tree-sha1 = "2ed9c498a9ac70c514c1a615c5f51ab098d9e6ff"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "7f641bc8eeef4c903d0454b71f09dc9dd25cb8e77a0e207cff88d41ac543a56f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "2fc1e1cc003e262db78fb8a2aa3938c4e5ec382930f614eb3e0d9f57034a3ec5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_libXdamage]]
 arch = "i686"
-git-tree-sha1 = "93a6129bff276fef9ea0815f9917e66b4a02a855"
+git-tree-sha1 = "9352a10e1c10c791798c76cd78a6753966d02fbf"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "4d03e235223ff38e17291f2b1d02460ecbb1c9d19e71300f01f750b79f5c4571"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.i686-linux-gnu.tar.gz"
+    sha256 = "bee65aeb03e480ae3f37d20138aca02fdf2b7f09497918f95595904138263e53"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.i686-linux-gnu.tar.gz"
 [[Xorg_libXdamage]]
 arch = "i686"
-git-tree-sha1 = "531291a65eca959f2a15011be630c48228d89472"
+git-tree-sha1 = "dbfc272c801c72fd4f8acba201e51d7aadef609e"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "6a064127ce721b102f3d3a624e503ed65d1be70efea84f3af6114e08235269a5"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.i686-linux-musl.tar.gz"
+    sha256 = "465a8649a15801cb81bd97b431d0c9b2b637f34a8cf439644a4edb76cffed791"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.i686-linux-musl.tar.gz"
 [[Xorg_libXdamage]]
 arch = "powerpc64le"
-git-tree-sha1 = "f43618bf40918e5a9bd52e6eacc824d284e10a50"
+git-tree-sha1 = "ccd98df6c633700d2f527743cfdd8c048a5321fe"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "dbff580f974575bc26e555fdefffe42c4db26b086ebb5f11dc9792f0f8227bc4"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e43a76f3e6a696d52559b87542a8cc058e20db719e45fd05eeb60ac73556b640"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_libXdamage]]
 arch = "riscv64"
-git-tree-sha1 = "548dceef522d783f31aa93816cde8876c94609fc"
+git-tree-sha1 = "5efdaedcbd5ff22fa2e3500355d4df4290b5bb47"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "43b7abcb52053a97a9fd764a508606b8be5fe84faa2e87b6a52baa982e0857fd"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.riscv64-linux-gnu.tar.gz"
+    sha256 = "7b61189567e00be6789c8e3cdd5f791cabb63ffc410c0992d974133ce234014f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.riscv64-linux-gnu.tar.gz"
 [[Xorg_libXdamage]]
 arch = "x86_64"
-git-tree-sha1 = "42c333e8e785aba1afa3b22013ce28dd6c511175"
+git-tree-sha1 = "43af9d2af5468692a2d341b8ab0e19e0477b1458"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "6884cbac48a53a8a91d3b60c4ce3db55d1bfb164709e84201409f9cf0e2a54be"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.x86_64-linux-gnu.tar.gz"
+    sha256 = "d5eae0f4b9029da35c9470d17c87f1d5c9325e3488f6b76bd1ce2e0f0b24faba"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.x86_64-linux-gnu.tar.gz"
 [[Xorg_libXdamage]]
 arch = "x86_64"
-git-tree-sha1 = "b32980e7618517ec00d2f590a8b3ede5ff4f4e40"
+git-tree-sha1 = "3c6968f20ba1208843bfa48e02df208c10824bcf"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "34de654c452e2444b77a17d87d640a62cae6dddc3cf483fdc545377c2c92ca5f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.x86_64-linux-musl.tar.gz"
+    sha256 = "f346ba5b55008a2247f24d1958ced0f2fd56a18c10693b5f983b6ed16a70eb5a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.x86_64-linux-musl.tar.gz"
 [[Xorg_libXdamage]]
 arch = "x86_64"
-git-tree-sha1 = "1d3f2676f2b8dfa0444c3c771a8d851af2462494"
+git-tree-sha1 = "7ec1d2e9edc60131a571c5e86573d386f7586e60"
 os = "freebsd"
 
     [[Xorg_libXdamage.download]]
-    sha256 = "6c98362038f197806c6a681b6e13d82115514a22b9b9f08db15f4562f96bdf88"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.6+0/Xorg_libXdamage.v1.1.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "da6256b2f0160eae95073571d9dc5dc00d3107be3fec9de6f7416d2d275b663f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXdamage_jll.jl/releases/download/Xorg_libXdamage-v1.1.7+0/Xorg_libXdamage.v1.1.7.x86_64-unknown-freebsd.tar.gz"
